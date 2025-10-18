@@ -3,6 +3,10 @@ DerivedDataCache
 Saved
 Binaries
 Build
+.idea
+Content/ParagonMinions
+Content/ParagonSunWukong
+Plugins
 
 *.sln
 .vs
